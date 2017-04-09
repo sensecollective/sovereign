@@ -43,4 +43,4 @@ ntp_servers:
 cloud_mounts:
   - source: '/dev/vdb'
     destination: '/decrypted'
-fstype: 'ext4'
+    fstype: 'ext4'
