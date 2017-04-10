@@ -227,6 +227,9 @@ database password ansible has created a set of random passwords for
 each service and stores them in your local folder `secret`, use the
 one in the file `owncloud_db_password`.
 
+
+Google Authenticator file is in home/username/.google_authenticator
+
 How To Use Your New Personal Cloud
 ----------------------------------
 
